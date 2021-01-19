@@ -1,4 +1,4 @@
-# Full-Stack разработчик (PHP/JS)
+# Full-Stack разработчик (PHP/JS) - закрыта
 
 ```
 TLDR: Remote; €2,000+; Long-term contract; Hard & Soft skills required; PHP & JS experience required; Perks included.
