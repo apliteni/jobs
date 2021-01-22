@@ -23,7 +23,7 @@ All the communication is held in written with CarrotQuest chats.
  - fluent English;
  - understanding the basics of domains administration, servers, and hosting functioning;
  
-Technical background and acquaintance with the basics of any programming language will be a significant advantage.
+Technical background and understanding the basics of any programming language will be a significant advantage.
 
 ## We offer
  - cosy atmosphere, challenging tasks;
