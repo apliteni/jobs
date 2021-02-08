@@ -26,7 +26,7 @@ All the communication is held in written with CarrotQuest chats.
 Technical background and understanding the basics of any programming language will be a significant advantage.
 
 ## We offer
- - cosy atmosphere, challenging tasks;
+ - cozy atmosphere, challenging tasks;
  - fair and constantly growing salary;
  - social guarantees: paid 21 business days vacation per year, paid sick days;
  - dedicated teammates;
