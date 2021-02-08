@@ -1,4 +1,4 @@
-# Customer Success Agent/ Technical Support Specialist (closed)
+# Technical Support Specialist/ Customer Success Representative
 
 Apliteni is a product team with the main focus on [Keitaro tracker](https://keitaro.io/) and its supporting services.
 Apliteni is constantly growing and looking for a specialist who will help us support Keitaro and our other services customers.
@@ -18,9 +18,9 @@ We are a team of 16 - 11 of us are developers, and the rest 5 form our current c
 All the communication is held in written with CarrotQuest chats.
  
  ## Our expectations
- - excellent communication skills, ability to empathize and listen to customers and their needs;
  - 2+ years of customer care experience - consulting, customer support, sales manager;
  - fluent English;
+ - excellent communication skills, ability to empathize and listen to customers and their needs;
  - understanding the basics of domains administration, servers, and hosting functioning;
  
 Technical background and understanding the basics of any programming language will be a significant advantage.
