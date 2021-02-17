@@ -1,4 +1,4 @@
-# Technical Support Specialist/ Customer Success Representative
+# Technical Support Specialist/ Customer Success Representative (close)
 
 Apliteni is a product team with the main focus on [Keitaro tracker](https://keitaro.io/) and its supporting services.
 Apliteni is constantly growing and looking for a specialist who will help us support Keitaro and our other services customers.
