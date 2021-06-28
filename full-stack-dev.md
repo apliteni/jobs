@@ -24,9 +24,8 @@
 
 ## Как выглядить работа у нас
 
-* Цели бизнеса и команд описаны на досках Avion.io.
-* Для планирования внутри недели мы используем Kanban в Jira.
-* Для общения Slack и Zoom.
-* Процессы сборки и релизов автоматизированы в Gitlab CI/CD.
+* Цели бизнеса и команд описаны в виде [карт историй](https://handbook.apliteni.com/how-we-work/story-maps.html).
+* Для планирования внутри недели мы используем [Kanban в Jira](https://handbook.apliteni.com/how-we-work/kanban-board.html).
+* Для общения [Slack и Zoom](https://handbook.apliteni.com/communication.html).
+* Процессы сборки и релизов автоматизированы в [Gitlab CI/CD](https://handbook.apliteni.com/infra/gitlab-ci.html).
 
-Обо всем подробнее в [нашем хедбуке](https://handbook.apliteni.com/).
